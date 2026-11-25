@@ -1,33 +1,76 @@
 # Hi, I'm Ismail 👋
 
-🎓 Computer Engineering student at the University of Ottawa
+🎓 Final-year Computer Engineering student at the University of Ottawa | Graduating May 2027
 
-💻 Interested in a broad range of areas across computer engineering, including software development, embedded systems, artificial intelligence and machine learning, FPGA and digital design, computer architecture, networking, and hardware-software integration.
+I am passionate about designing, developing, optimizing, and validating systems across hardware and software. My technical interests span FPGA development, digital hardware design, embedded systems, software engineering, artificial intelligence, computer architecture, and hardware-software co-design.
 
-I enjoy working across both hardware and software and I am open to opportunities in different technical fields where I can learn, contribute, and build practical engineering experience.
+I enjoy solving complex engineering problems, exploring new technologies, and transforming theoretical concepts into practical, functional systems.
 
-## 🛠 Technical Skills
+## 🚀 Featured Project
 
-**Programming:** C, Python, Java, VHDL, MATLAB
+### FPGA Accelerator for AI Inference
 
-**Software Development:** Android Studio, Git, GitHub, object-oriented programming, data structures and algorithms, software testing
+Currently developing an FPGA-based hardware accelerator for deep learning inference as part of my senior engineering capstone project.
 
-**Embedded Systems:** STM32, Embedded C, UART, timers, interrupts, peripheral interfacing
+- Design and optimization of convolution hardware accelerators.
+- High-Level Synthesis (HLS) using C++ and AMD Vitis HLS.
+- Pipelining, parallelism, latency and throughput optimization.
+- RTL simulation, functional verification and performance benchmarking.
+- Hardware resource utilization and timing analysis.
+- Reusable Vivado IP development.
+- ResNet-50 inference profiling and computational bottleneck analysis.
+- AMD Kria KV260 platform and hardware-software integration research.
 
-**FPGA & Digital Systems:** VHDL, Quartus II, digital logic, processor datapaths, pipelining, forwarding and hazard management
+## 🛠️ Technical Skills
 
-**Artificial Intelligence & Machine Learning:** Machine learning fundamentals, regression, model evaluation, neural networks, deep learning fundamentals, search algorithms
+**Programming & Hardware Description Languages**
 
-**Computer Systems & Networking:** Computer architecture, operating systems, Packet Tracer, Wireshark, IP networking
+C, C++, Python, Java, VHDL, Verilog RTL, MATLAB
 
-## 🚀 Areas of Interest
+**FPGA & Digital Hardware Engineering**
 
-- Software Development
-- Embedded Systems & Firmware
-- Artificial Intelligence & Machine Learning
-- FPGA & Digital Design
-- Computer Architecture
+AMD Kria KV260, Vivado, Vitis HLS, XSim, XSCT, Quartus II, digital logic design, RTL simulation, functional verification, pipelining, hardware acceleration, timing analysis, IP development
+
+**Embedded Systems & Firmware**
+
+STM32, Embedded C, UART, timers, interrupts, peripheral interfacing, Linux, hardware-software integration
+
+**Software Engineering**
+
+Android Studio, Git, GitHub, object-oriented programming, data structures and algorithms, software testing, debugging
+
+**Artificial Intelligence & Machine Learning**
+
+PyTorch, CNNs, ResNet-50, inference profiling, neural networks, regression, model evaluation, deep learning fundamentals, search algorithms
+
+**Computer Architecture & Systems**
+
+Processor datapaths, instruction pipelining, forwarding, hazard management, memory systems, operating systems, SoC architectures
+
+**Networking & Cybersecurity**
+
+Wireshark, Cisco Packet Tracer, IP networking, network security, secure computer systems
+
+## 🔬 Areas of Interest
+
+- FPGA & Digital Hardware Design
+- RTL Design & Verification
 - Hardware Testing & Validation
-- Systems Engineering
-- Networking
-- Hardware-Software Integration
+- Embedded Systems & Firmware
+- Hardware Acceleration & AI Inference
+- Software Development
+- Computer Architecture & SoC Design
+- Artificial Intelligence & Machine Learning
+- Systems Engineering & Integration
+- Networking & Cybersecurity
+
+## 🌱 Currently
+
+- Developing and optimizing FPGA-based convolution accelerators.
+- Exploring hardware-software co-design and AI inference acceleration.
+- Seeking new graduate engineering opportunities starting in 2027.
+- Open to relocation across Canada.
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/khayati-ismail/) | [GitHub](https://github.com/Ismish87)
